@@ -1,6 +1,15 @@
 # FacebookChatBot
 If you want to post (some) automatic messages and don't want to mess with the Facebook API, I have some good news for you!
 
+## Update (2020-12-10)
+It seems like Facebook has removed the simple text chat, once available on old phones and in CLI.  
+This script used the lite version of Messages, by going to (Facebook Mobile)[m.facebook.com/messages] but, maybe for _improving the user experience_, now end up with an error message.  
+During two years, it was a joy to reply automatically to some messages and to improve this script (even if source code was awful).  
+I won't sell my soul (or pay to give it for free) to get an API key.  
+So the project to do a chatbot will need a serious overhaul, that I am not willing to do right now.  
+
+Goodbye.  
+
 **Warning: dev version. THings may not work! Pay attention to the logs!**
 
 To get this script working, you will need some things:  
